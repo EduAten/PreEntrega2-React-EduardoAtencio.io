@@ -1,0 +1,91 @@
+[   
+    {
+        "id": 1,
+        "titulo": "Procesador Intel Core i5 11400F 4.40GHz Turbo S1200 Rocket Lake",
+        "categoria": "procesador",
+        "descripcion": "Nucleos: 6. Frecuencia: 2600.00 mhz. Hilos: 12.",
+        "imagen": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_25686_Procesador_Intel_Core_i5_11400F_4.40GHz_Turbo_S1200_Rocket_Lake_f8a24db3-grn.jpg",
+        "precio": 102350
+    },
+
+    {
+        "id": 2,
+        "titulo": "Procesador AMD Ryzen 5 5600 4.4GHz Turbo + Wraith Stealth Cooler",
+        "categoria": "procesador",
+        "descripcion": "Nucleos: 6; Frecuencia: 3500.00 mhz. Hilos: 12.",
+        "imagen": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_31686_Procesador_AMD_Ryzen_5_5600_4.4GHz_Turbo___Wraith_Stealth_Cooler_4f696861-grn.jpg",
+        "precio": 112900
+    },
+
+    {
+        "id": 3,
+        "titulo": "Mother Asrock B550M-HDV",
+        "categoria": "mother",
+        "descripcion": "Factor: M-ATX",
+        "imagen": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_20365_Mother_Asrock_B550M-HDV_90516961-grn.jpg",
+        "precio": 58990
+    },
+
+    {
+        "id": 4,
+        "titulo": "Mother ASUS PRIME J4005I-C con Intel Celeron Dual Core on board",
+        "categoria": "mother",
+        "descripcion": "Factor: ITX",
+        "imagen": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_36559_Mother_ASUS_PRIME_J4005I-C_con_Intel_Celeron_Dual_Core_on_board_8c5d16a5-grn.jpg",
+        "precio": 37400
+    },
+
+    {
+        "id": 5,
+        "titulo": "Placa de Video ASUS GeForce GTX 1660 SUPER 6GB GDDR6 OC TUF",
+        "categoria": "grafica",
+        "descripcion": "Tipo: pcie. Chipset gpu: GTX 1660 SUPER. Entrada video: no",
+        "imagen": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_35211_Placa_de_Video_ASUS_GeForce_GTX_1660_SUPER_6GB_GDDR6_OC_TUF_91e6cd72-grn.jpg",
+        "precio": 204900
+    },
+
+    {
+        "id": 6,
+        "titulo": "Placa de Video XFX Radeon RX 6650 XT 8GB GDDR6 Speedster SWFT 210",
+        "categoria": "grafica",
+        "descripcion": "Tipo: pcie. Chipset gpu: RX 6650 XT. Entrada video: no",
+        "imagen": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33401_Placa_de_Video_XFX_Radeon_RX_6650_XT_8GB_GDDR6_Speedster_SWFT_210_7cfb9f1a-grn.jpg",
+        "precio": 192200
+    },
+
+    {
+        "id": 7,
+        "titulo": "Memoria Corsair DDR4 8GB 2400MHz Vengeance LPX Black CL16",
+        "categoria": "memoria",
+        "descripcion": "Capacidad: 8gb. Velocidad: 2400mhz. Tipo: DDR4",
+        "imagen": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_35645_Memoria_Corsair_DDR4_8GB_2400MHz_Vengeance_LPX_Black_CL16_fddb04d5-grn.jpg",
+        "precio": 18850
+    },
+
+    {
+        "id": 8,
+        "titulo": "Memoria Adata DDR5 8GB 4800Mhz",
+        "categoria": "memoria",
+        "descripcion": "Capacidad: 8gb. Velocidad: 4800mhz. Tipo: DDR5",
+        "imagen": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_31672_Memoria_Adata_DDR5_8GB_4800Mhz_96f3cb39-grn.jpg",
+        "precio": 19200
+    },
+    
+    {
+        "id": 9,
+        "titulo": "Fuente Deepcool 500W DA500 80 Plus Bronze",
+        "categoria": "fuente",
+        "descripcion": "Watts Nominal: 500w. Watts Reales: 456w. Formato: ATX.",
+        "imagen": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33804_Fuente_Deepcool_500W_DA500_80_Plus_Bronze_c1debc82-grn.jpg",
+        "precio": 23550
+    },
+
+    {
+        "id": 10,
+        "titulo": "Fuente Gigabyte 650W 80 Plus Bronze P650B*",
+        "categoria": "fuente",
+        "descripcion": "Watts Nominal: 650w. Watts Reales: 650w. Formato: ATX.",
+        "imagen": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_9751_Fuente_Gigabyte_650W_80_Plus_Bronze_P650B__4d80c52d-grn.jpg",
+        "precio": 36900
+    }
+]
